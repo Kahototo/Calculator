@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     var number: Int = 0
     
     var number2: Int = 0
-    
     var operation: Int = 0
     
     @IBAction func select3() {
